@@ -1,5 +1,4 @@
 // Write your solution in this file!
-// Write your solution in this file!
 const employee = {
     name: "Abuya",
     streetAddress: "11 Broadway"
